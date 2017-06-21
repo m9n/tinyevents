@@ -1,0 +1,10 @@
+@import url('jquery-ui.css');
+
+.tinyevents-startdate, .tinyevents-enddate {
+	float: left;
+	width: 50%;
+	box-sizing: border-box;
+}
+.tinyevents-startdate { padding-right: 1em; }
+.tinyevents-enddate { padding-left: 1em; }
+.tinyevents-times { clear: both; }

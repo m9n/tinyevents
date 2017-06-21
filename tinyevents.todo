@@ -2,3 +2,9 @@ To-do:
  ☐ Add date columns to All Events in Admin.
 
 Ideas:
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+Archive:
+ ✔ Add extra fields above and below event content in single display (date and time above, location below). @done (17-06-20 18:36) @project(To-do)
+ ✔ Remove archive display (no easy/universal way to override. We provide kick-ass ) @done (17-06-20 16:18) @project(To-do)
+ ✔ If get_bloginfo("language") is en-US, then we use US date formats.  Otherwise, we use UK. @done (17-06-19 20:30) @project(To-do)
